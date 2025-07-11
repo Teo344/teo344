@@ -24,8 +24,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=teo344&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teo344&show_icons=true&locale=en&layout=compact&theme=radical" alt="teo344" />
-</p>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
