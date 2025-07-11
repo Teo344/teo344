@@ -28,12 +28,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teo344&show_icons=true&locale=en&layout=compact&theme=radical" alt="teo344" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=teo344&show_icons=true&locale=en&theme=radical" alt="teo344" />
-</p>
-
-
----
 [![](https://visitcount.itsvg.in/api?id=teo344&icon=6&color=7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
